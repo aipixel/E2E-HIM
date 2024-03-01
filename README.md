@@ -8,7 +8,7 @@ E2E-HIM is a human instance matting network.
 
 ## Demovideo
 
-[![DemoVideo](http://img.youtube.com/vi/WZBqxbE7XU/0.jpg)](https://www.youtube.com/watch?v=-WZBqxbE7XU "Demo Video")
+[![DemoVideo](http://img.youtube.com/vi/-WZBqxbE7XU/0.jpg)](https://www.youtube.com/watch?v=-WZBqxbE7XU "Demo Video")
 ## Requirements
 #### Hardware:
 
