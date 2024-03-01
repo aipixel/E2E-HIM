@@ -9,10 +9,11 @@ E2E-HIM is a human instance matting network.
 ## Demovideo
 
 [![DemoVideo](http://img.youtube.com/vi/-WZBqxbE7XU/0.jpg)](https://www.youtube.com/watch?v=-WZBqxbE7XU "Demo Video")
+
 ## Requirements
 #### Hardware:
 
-GPU memory >= 8GB.
+GPU memory >= 6GB.
 
 #### Packages:
 
@@ -28,11 +29,11 @@ GPU memory >= 8GB.
 Quantitative results on HIM-100K.
 
 |                                   Model Name                                   |  Size  | EMSE | EMAD |
-|:------------------------------------------------------------------------------:|:------:|:----:|:---:|
-| [E2E-HIM(Swin-Tiny)](https://pan.baidu.com/s/1dbn_v-qYi8rMN_DrcPUhYA?pwd=klrb) | 154MiB | 5.35 | 6.64 |
+|:------------------------------------------------------------------------------:|:------:|:----:|:----:|
+| [E2E-HIM](https://mega.nz/file/3IJAFDYQ#FFJk7FADXqYjr-FHDmmW6MbGPf5TVvYocID3RaVaa28) | 270MiB | 5.33 | 6.62 |
 
 ## Evaluation
-We provide the script `eval_swintiny.py` for evaluation.
+We provide the script `eval_swintiny.py` for evaluation. Note that, current E2E-HIM cannot be applied to high-resolution images.
 
 ## Citation
 
@@ -47,3 +48,4 @@ If you use this model in your research, please cite this project to acknowledge 
   publisher={IEEE}
 }
 ```
+
