@@ -33,7 +33,7 @@ Quantitative results on HIM-100K.
 | [E2E-HIM](https://mega.nz/file/3IJAFDYQ#FFJk7FADXqYjr-FHDmmW6MbGPf5TVvYocID3RaVaa28) | 270MiB | 5.33 | 6.62 |
 
 ## Evaluation
-We provide the script `eval_swintiny.py` for evaluation. Note that, current E2E-HIM cannot be applied to high-resolution images.
+We provide the script `eval_swintiny.py` for evaluation. Note that, current E2E-HIM cannot be applied to high-resolution images. Due to the commercial value of the method, we only provide inference code and do not intend to release the training code.
 
 ## Citation
 
